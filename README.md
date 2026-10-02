@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1200&color=6EE7F7&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Teenage+Systems+%26+AI+Engineer+%E2%9A%A1;Creator+of+Billease+Pro+%7C+Offline-First+ERP+%F0%9F%92%BC;Solo-traveled+2000+km+for+AI+Hack+Day+%F0%9F%9A%80;From+Sitamarhi%2C+Bihar+to+the+World+%F0%9F%8C%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1200&color=6EE7F7&center=true&vCenter=true&multiline=true&width=750&height=110&lines=17+y%2Fo+Full-Stack+%26+AI+Systems+Engineer+%F0%9F%9A%80;Creator+of+Billease+Pro+%7C+Offline-First+ERP+%F0%9F%92%BC;Solo-traveled+2000+km+for+AI+Hack+Day+%E2%9A%A1;From+Sitamarhi%2C+Bihar+to+the+World+%F0%9F%8C%8E" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@
 
 ```yaml
 identity   : Viraj (NexaAutomate Studio)
-age        : <!-- AGE_START -->17<!-- AGE_END -->
+age        : 17
 location   : Sitamarhi, Bihar 🇮🇳
 education  : 12th Grade (PCM Stream)
 role       : Full-Stack Dev + AI Systems Engineer
